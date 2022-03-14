@@ -1,3 +1,12 @@
+.vs/
+.vscode/
+/src/gtl_ui/out/
+
+Debug/
+debug/
+Release/
+release/
+
 # Prerequisites
 *.d
 
@@ -30,3 +39,5 @@
 *.exe
 *.out
 *.app
+/src/gtl_ui_test/GPUCache
+/src/cef_test/GPUCache
